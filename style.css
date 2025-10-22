@@ -1,0 +1,63 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #121212;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #1db954; /* Spotify green */
+  color: #fff;               /* white text for visibility */
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;           /* makes it big */
+  font-weight: bold;         /* makes it bold */
+  margin-bottom: 10px;       /* adds spacing below */
+}
+
+h2, h3 {
+  color: #1db954;
+}
+
+a {
+  color: #1db954;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block; /* add this */
+  margin-bottom: 20px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  display: block;           /* keeps it below everything */
+  margin: 30px auto;        /* centers it horizontally */
+  padding: 10px 20px;
+  background-color: #1db954; /* Spotify green */
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #1ed760; /* lighter green when hovered */
+}
+
+
+footer {
+  background-color: #000;
+  color: #aaa;
+  padding: 10px;
+  text-align: center;
+  margin-top: 40px;
+}
