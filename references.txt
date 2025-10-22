@@ -1,0 +1,3 @@
+References:
+- Spotify. (2025). Spotify Web Player. Retrieved from https://open.spotify.com/
+- W3Schools. (2025). HTML, CSS, and JavaScript Tutorials. Retrieved from https://www.w3schools.com/
