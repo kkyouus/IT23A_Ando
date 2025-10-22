@@ -9,7 +9,7 @@ body {
 
 header {
   background-color: #1db954; /* Spotify green */
-  color: #fff;               /* white text for visibility */
+  color: #fff;               /* white text para makita*/
   padding: 20px;
   text-align: center;
 }
@@ -17,7 +17,7 @@ header {
 h1 {
   font-size: 36px;           /* makes it big */
   font-weight: bold;         /* makes it bold */
-  margin-bottom: 10px;       /* adds spacing below */
+  margin-bottom: 10px;       /* adds spacing sa ubos */
 }
 
 h2, h3 {
@@ -28,7 +28,7 @@ a {
   color: #1db954;
   text-decoration: none;
   font-weight: bold;
-  display: inline-block; /* add this */
+  display: inline-block; 
   margin-bottom: 20px;
 }
 
@@ -50,7 +50,7 @@ button {
 }
 
 button:hover {
-  background-color: #1ed760; /* lighter green when hovered */
+  background-color: #1ed760; /* lighter green */
 }
 
 
